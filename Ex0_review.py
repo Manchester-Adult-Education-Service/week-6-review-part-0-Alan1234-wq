@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Ex0_review.py – Whole-class Revision
+# Exercise 0: Whole-class Revision
 # -------------------------------------------
 # In this exercise, we’ll review all the core Python concepts covered so far:
 # - Variables and storing data
